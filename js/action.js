@@ -163,4 +163,4 @@ function removeCard(cardIdRemove){
         emptyInfoText.classList.remove('hidden');
     }
     redirectBack();
-}
+} 
